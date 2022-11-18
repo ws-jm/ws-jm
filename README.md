@@ -1,4 +1,4 @@
-<h2 align="center">👋 A passionate Fullstack & Blockchain developer</h2>
+<h2 align="center">👋 A passionate Fullstack & Blockchain Developer & Design Developer</h2>
 <p align="center">
   <img align="center" src="https://s38063.pcdn.co/wp-content/uploads/2021/10/what-is-a-microservice-and-considerations-for-using-microservices-architecture.jpg" style = "width: -webkit-fill-available;"/>
 </p>
@@ -129,4 +129,3 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-
