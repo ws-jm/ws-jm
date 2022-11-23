@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" src="https://github.com/ws-jm/react-easy-carousel/blob/main/background%20(32).jpg" style = "width: -webkit-fill-available;"/>
 </p>
-###
+Panda
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=babystar0908" height="150" alt="stats graph"  />
