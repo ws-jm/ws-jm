@@ -57,12 +57,6 @@ Panda
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/solana.png" width="48" height="48" alt="Solana" />
-      </a>
-      <br>Solana
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUCvl89tSAMKbnSZqc9itD8CqFMpaModsxA&usqp=CAU" width="48" height="48" alt="Ethereum" />
       </a>
       <br>Ethereum
